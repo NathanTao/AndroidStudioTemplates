@@ -1,5 +1,8 @@
+# Important #
+	Just used for myself.
+	
 # AndroidStudioTemplates #
-	some templetes for android studio
+	Some templetes for android studio
 
 ## Locaction ##
 	{Android Studio}/plugins/android/lib/templates/activities
